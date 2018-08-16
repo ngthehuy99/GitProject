@@ -1,1 +1,5 @@
-#This is the first project for CSTLU student and method
+#The first project for CSLTU students
+
+1. Thang Nguyen
+2. Dai Nguyen
+
